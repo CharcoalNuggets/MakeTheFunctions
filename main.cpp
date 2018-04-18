@@ -65,7 +65,7 @@ int main()
   {
     for(int i=0; i<grid.size(); i++)
     {
-      cout<< grid[i] <<" "<<endl;
+      cout<< grid[i] <<" ";
     }
   }
 
