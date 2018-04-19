@@ -51,6 +51,10 @@ int main()
     {
       return true;
     }
+    else
+    {
+      return false;
+    }
   }
   
   void fillWith(vector<int> &assignments, int value)
